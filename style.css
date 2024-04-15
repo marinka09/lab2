@@ -269,7 +269,7 @@ p {
 
 #order-form {
   position: absolute;
-  top: 175%;
+  top: 180%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
